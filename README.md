@@ -1,8 +1,8 @@
 # 💫 About Me:
 
 Found security vulnerabilities for:
-- Roblox (Guilded.gg)
-- OpenAI
+- [Roblox](roblox.com) ([Guilded.gg](guilded.gg))
+- [OpenAI](openai.com)
 
 
 # 💻 Tech Stack:
