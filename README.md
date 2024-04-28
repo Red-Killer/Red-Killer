@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hey 👋, I'm Red Killer!
+Currently looking for security vulnerabilities.
 
 
 # 💻 Tech Stack:
