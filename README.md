@@ -1,4 +1,8 @@
-Currently looking for security vulnerabilities.
+# 💫 About Me:
+
+Found security vulnerabilities for:
+- Roblox (Guilded.gg)
+- OpenAI
 
 
 # 💻 Tech Stack:
