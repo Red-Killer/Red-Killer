@@ -1,8 +1,22 @@
-# 💫 About Me:
+# Security Vulnerabilities I've Discovered:
 
-Found security vulnerabilities for:
-- [Roblox](https://roblox.com) ([Guilded.gg](https://guilded.gg))
-- [OpenAI](https://openai.com)
+- **Information Disclosure**  
+  ChatGPT had a vulnerability that allowed attackers to get sensitive information about users.
+
+- **Privilege Escalation**  
+  Roblox (Guilded.gg) had a vulnerability that allowed attackers to gain access to staff accounts.
+
+- **Client Side Validation Bypass**  
+  Embed Generator had a vulnerability that allowed attackers to bypass the client side validation.
+
+- **Improper Authorization**  
+  RustyRocket.gg had a vulnerability that allowed attackers to delete messages from the chat as a client.
+
+- **Remote Code Execution**  
+  RBLXRoll.com had a vulnerability that allowed attackers to execute code on other clients.
+
+- **Price Manipulation**  
+  Skytest.de had a vulnerability that allowed attackers to change the price they have to pay for products.
 
 
 # 💻 Tech Stack:
