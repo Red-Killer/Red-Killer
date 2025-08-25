@@ -12,10 +12,5 @@
 | **RBLXRoll.com – Cross-Site Scripting (XSS)** | **CWE-79: Improper Neutralization of Input During Web Page Generation (XSS)** |  
 | **Skytest.de – Price Manipulation** | **CWE-20: Improper Input Validation** |  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Red-Killer&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Red-Killer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Killer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ---
 ![](https://visitcount.itsvg.in/api?id=Red-Killer&icon=0&color=8)
